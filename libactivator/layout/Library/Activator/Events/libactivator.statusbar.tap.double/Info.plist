@@ -1,0 +1,5 @@
+{
+	title = "Double Tap";
+	group = "Status Bar";
+	description = "Double-tap on statusbar";
+}

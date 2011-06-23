@@ -1,0 +1,6 @@
+{
+	title = "Reboot";
+	description = "Immediately reboots the device";
+	group = "System Actions";
+	selector = "reboot";
+}

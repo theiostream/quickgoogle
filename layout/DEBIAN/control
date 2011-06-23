@@ -1,0 +1,9 @@
+Package: am.theiostre.quickgoogle
+Name: QuickGoogle
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: theiostream/fr0st
+Author: theiostream/fr0st
+Section: Tweaks

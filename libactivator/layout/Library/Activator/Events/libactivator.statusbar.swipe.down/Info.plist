@@ -1,0 +1,5 @@
+{
+	title = "Swipe Down";
+	group = "Status Bar";
+	description = "Tap and drag down from statusbar";
+}
