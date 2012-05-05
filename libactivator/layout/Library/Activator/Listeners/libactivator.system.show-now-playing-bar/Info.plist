@@ -1,7 +1,0 @@
-{
-	title = "Show Now Playing Bar";
-	description = "Show the standard media controls";
-	group = "System Actions";
-	"compatible-modes" = ("springboard", "application");
-	selector = "showNowPlayingBar";
-}

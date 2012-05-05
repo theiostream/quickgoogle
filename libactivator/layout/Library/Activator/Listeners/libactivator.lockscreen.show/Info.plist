@@ -1,7 +1,0 @@
-{
-	title = "Lock Device";
-	description = "Show lock screen";
-	group = "Lock Screen";
-	"compatible-modes" = ("springboard", "application");
-	selector = "showLockScreen";
-}

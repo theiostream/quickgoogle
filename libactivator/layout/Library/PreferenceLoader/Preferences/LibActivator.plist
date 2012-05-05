@@ -1,7 +1,0 @@
-entry = {
-  bundle = LibActivator;
-  cell = PSLinkCell;
-  icon = icon.png;
-  isController = 1;
-  label = Activator;
-};

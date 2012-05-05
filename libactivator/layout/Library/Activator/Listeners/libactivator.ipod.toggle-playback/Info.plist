@@ -1,6 +1,0 @@
-{
-	title = "Play/Pause";
-	description = "Toggles iPod playback";
-	group = "iPod";
-	selector = "togglePlayback";
-}

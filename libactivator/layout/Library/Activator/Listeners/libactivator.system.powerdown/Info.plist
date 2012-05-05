@@ -1,6 +1,0 @@
-{
-	title = "Power Down";
-	description = "Immediately powers down the device";
-	group = "System Actions";
-	selector = "powerDown";
-}

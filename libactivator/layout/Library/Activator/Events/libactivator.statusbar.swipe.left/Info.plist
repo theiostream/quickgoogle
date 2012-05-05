@@ -1,5 +1,0 @@
-{
-	title = "Swipe Left";
-	group = "Status Bar";
-	description = "Tap and drag left on statusbar";
-}

@@ -1,7 +1,0 @@
-{
-	title = "Show Favorites";
-	description = "Launch Phone to the Favorites tab";
-	group = "Phone";
-	"compatible-modes" = ("springboard", "application");
-	selector = "showPhoneFavorites";
-}

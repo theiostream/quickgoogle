@@ -1,7 +1,0 @@
-{
-	title = "Spotlight";
-	description = "Show SpringBoard and activate search";
-	group = "System Actions";
-	"compatible-modes" = ("springboard", "application");
-	selector = "spotlight";
-}

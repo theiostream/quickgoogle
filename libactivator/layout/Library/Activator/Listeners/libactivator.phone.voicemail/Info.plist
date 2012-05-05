@@ -1,7 +1,0 @@
-{
-	title = "Show Voicemail";
-	description = "Launch Phone to the Voicemail tab";
-	group = "Phone";
-	"compatible-modes" = ("springboard", "application");
-	selector = "showPhoneVoicemail";
-}

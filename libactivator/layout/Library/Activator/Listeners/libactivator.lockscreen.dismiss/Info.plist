@@ -1,7 +1,0 @@
-{
-	title = "Unlock Device";
-	description = "Dismiss lock screen";
-	group = "Lock Screen";
-	"compatible-modes" = ("lockscreen");
-	selector = "dismissLockScreen";
-}

@@ -1,5 +1,0 @@
-{
-	title = "Toggle Mute Switch Twice";
-	group = "Volume Buttons";
-	description = "Flip mute switch on/off and back";
-}

@@ -1,7 +1,0 @@
-{
-	title = "Show Recents";
-	description = "Launch Phone to the Recents tab";
-	group = "Phone";
-	"compatible-modes" = ("springboard", "application");
-	selector = "showPhoneRecents";
-}
