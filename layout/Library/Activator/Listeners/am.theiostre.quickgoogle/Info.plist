@@ -1,5 +1,0 @@
-{
-	title = "QuickGoogle";
-	description = "open QuickGoogle search field";
-	"compatible-modes" = ("springboard", "application", "lockscreen");
-}
